@@ -1,0 +1,3 @@
+1001|Ali Hassan|01000000001|ali@mail.com|ali123
+1002|Mona Adel Mohamed|01099999999|mona.new@mail.com|mona123
+1003|Karim Nabil Ahmed|01000000003|karim.new@mail.com|karim123
